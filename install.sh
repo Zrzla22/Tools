@@ -1,5 +1,6 @@
 figlet "Zrzla22" cowsay eyes | lolcat
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Tools to Mr." | lolcat
+figlet "Rajkumrdusad" | lolcat
 git clone https://github.com/Rajkumrdusad/Tool-X
 cd Tool-X
 ls
